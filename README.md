@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Anas Barre.   @Sana-Shabeel
+- 👋 Hi, I’m Anas Barre.  
 - 🌱 Full-stack developer
 - 💻 [Portfolio](https://anas-barre.netlify.app/)
 - ⚽️ HALA MADRID
