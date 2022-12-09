@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anas Barre.   @Sana-Shabeel
-- 🌱 Full-stack dveloper
+- 🌱 Full-stack developer
 - 💻 [Portfolio](https://anas-barre.netlify.app/)
 - ⚽️ HALA MADRID
 - 📫 You can reach me anasbarre99@gmail.com
