@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anas Barre.  
 - 🌱 Full-stack developer
 - 💻 [Portfolio](https://anas-barre.netlify.app/)
-- ⚽️ HALA MADRID
+
 - 📫 You can reach me anasbarre99@gmail.com
 - 🔹 [LinkedIn](https://www.linkedin.com/in/anas-barre-93303723a/)
 
