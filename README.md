@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anas Barre
-- 🌱 Full-stack 
+- 🌱 Full-stack developer
 - 💻 [Portfolio](https://anas-barre.netlify.app/)
 - ⚽️ Hala Madrid
 - 📫 You can reach me anasbarre99@gmail.com
