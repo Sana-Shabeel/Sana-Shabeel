@@ -1,4 +1,4 @@
-- 👋 
+- 👋 Hi, 
 - 🌱 Full-stack developer
 - 💻 [Portfolio](https://anas-barre.netlify.app/)
 - ⚽️ Hala Madrid
