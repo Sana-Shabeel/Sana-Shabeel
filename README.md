@@ -10,7 +10,7 @@
 
 - <a href="https://www.codewars.com/users/Sana-Shabeel" traget="_blank">![Codewars](https://www.codewars.com/users/Sana-Shabeel/badges/large)</a>
 
-- <a href="https://www.leetcode.com/sana-shabeel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sana-shabeel" height="30" width="40" /></a>
+- Leetcode <a href="https://www.leetcode.com/sana-shabeel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sana-shabeel" height="30" width="40" /></a>
 
 
 <h3 align="left">Connect with me:</h3>
