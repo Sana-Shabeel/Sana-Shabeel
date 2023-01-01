@@ -7,8 +7,11 @@
 - 📫 How to reach me **anasbarre99@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/anas-barre-93303723a/](https://www.linkedin.com/in/anas-barre-93303723a/)
-- ![Codewars](https://www.codewars.com/users/Sana-Shabeel/badges/large)
+
+- <a href="" traget="_blank">![Codewars](https://www.codewars.com/users/Sana-Shabeel/badges/large)</a>
+
 - <a href="https://www.leetcode.com/sana-shabeel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sana-shabeel" height="30" width="40" /></a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
