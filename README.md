@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **anasbarre99@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/anas-barre-93303723a/](https://www.linkedin.com/in/anas-barre-93303723a/)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/anas-barre-93303723a/)
 
 - Codewars <a href="https://www.codewars.com/users/Sana-Shabeel" traget="_blank"><img align="center" src="https://www.codewars.com/users/Sana-Shabeel/badges/large" /></a>
 
