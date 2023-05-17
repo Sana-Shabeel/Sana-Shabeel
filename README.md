@@ -4,6 +4,9 @@
 
 - 👨‍💻 All of my projects are available at [anas-barre.com](https://anas-barre.netlify.app/)
 
+
+<h3> Currently learning PHP / laravel</h3>
+
 - 📫 How to reach me **anasbarre99@gmail.com**
 
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/anas-barre-93303723a/)
